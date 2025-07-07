@@ -1,3 +1,3 @@
 # Table of contents
 
-* [docs](README.md)
+* [AI-Powered-Travel-Platforms](README.md)
